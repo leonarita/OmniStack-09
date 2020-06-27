@@ -1,5 +1,9 @@
 # Projeto "AirCnC"
 
+<br>
+<img src="/mobile/src/assets/logo.png">
+<br>
+
 ## Projeto desenvolvido no evento OmniStack 90.0 fornecido pela empresa RocketSeat.
 
 Nessa semana, foi desenvolvido uma aplicação full stack integrando backend (com NodeJS), frontend (com ReactJS) e mobile (com React-Native). A linguagem de programação utilizada foi o **Javascript**.
