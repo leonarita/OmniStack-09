@@ -1,0 +1,10 @@
+COLETAR A BASE URL DO EXPO PARA ALTERAR NOS SEGUINTES ARQUIVOS :
+
+- backend -> src -> models -> spot.js
+	[ linha 19 ]
+
+- backend -> src -> services -> api.js
+	[ linha 4 ]
+
+- backend -> src -> pages -> list.js
+	[ linha 14 ]
