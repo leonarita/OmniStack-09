@@ -29,9 +29,9 @@ Para o frontend, foram utilizadas ferramentas como `axios`, `react-router-dom` e
 <br>
 <br>
 Possui três telas: 
-  1. Tela inicial
-  2. Tela de manutenção de reservas 
-  3. Tela de cadastro
+  1. Tela inicial;
+  2. Tela de manutenção de reservas;
+  3. Tela de cadastro.
 
 <br>
 <img src="/uploads/foto2.png">
@@ -45,7 +45,11 @@ Foi utilizando o React-Native com o `Expo` para a criação da aplicação mobil
 <br>
 Para o mobile, foram utilizadas ferramentas como `axios`, `react-navigation` e `socket.io-client`. 
 <br>
-Possui três telas: a tela inicial que realiza login, a tela de listagem e a tela de solicitar reserva.
+<br>
+Possui três telas: 
+  1. Tela inicial que realiza login;
+  2. Tela de listagem;
+  3. Tela de solicitar reserva.
 
 <br>
 <img src="/uploads/foto4.png">
