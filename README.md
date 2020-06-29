@@ -27,7 +27,11 @@ Foram feitas as models, controllers, validação de dados, conexão com banco de
 
 Para o frontend, foram utilizadas ferramentas como `axios`, `react-router-dom` e `socket.io-client`. 
 <br>
-Possui três telas: a tela inicial, a tela de manutenção de reservas e a tela de cadastrar.
+<br>
+Possui três telas: 
+1. Tela inicial
+2. Tela de manutenção de reservas 
+3. Tela de cadastro
 
 <br>
 <img src="/uploads/foto2.png">
