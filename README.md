@@ -41,7 +41,7 @@ Foi utilizando o React-Native com o `Expo` para a criação da aplicação mobil
 <br>
 Para o mobile, foram utilizadas ferramentas como `axios`, `react-navigation` e `socket.io-client`. 
 <br>
-Possui três telas: a tela inicial que realiza loggin, a tela de listagem e a tela de solicitar reserva.
+Possui três telas: a tela inicial que realiza login, a tela de listagem e a tela de solicitar reserva.
 
 <br>
 <img src="/uploads/foto4.png">
