@@ -29,9 +29,9 @@ Para o frontend, foram utilizadas ferramentas como `axios`, `react-router-dom` e
 <br>
 <br>
 Possui três telas: 
-1. Tela inicial
-2. Tela de manutenção de reservas 
-3. Tela de cadastro
+  1. Tela inicial
+  2. Tela de manutenção de reservas 
+  3. Tela de cadastro
 
 <br>
 <img src="/uploads/foto2.png">
