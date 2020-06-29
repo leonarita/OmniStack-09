@@ -20,7 +20,7 @@ Esse projeto possibilita buscar desenvolvedores de uma determinada tecnologia em
 Para o backend, foram utilizadas ferramentas como `express`, `mongoose`, `cors`, `multer` e `socket.io`. 
 <br>
 <br>
-Foram feitas as funcionalidades:
+Foram feitas as seguintes funcionalidades:
   1. Models;
   2. Controllers;
   3. Conexão com banco de dados;
