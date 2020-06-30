@@ -15,6 +15,7 @@ A linguagem de programação utilizada foi o **`Javascript`**.
 Esse projeto possibilita buscar desenvolvedores de uma determinada tecnologia em um raio de 10 km, podendo ser atualizada a aplicação mobile on real time.
 
 <br>
+<br>
 <img src="/uploads/foto1.png">
 <br>
 
