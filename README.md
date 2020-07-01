@@ -67,7 +67,7 @@ Possui três telas:
 
 ### 4. Funcionalidade On Real Time
 
-A reserva é realiza on real time utilizando socket.io.
+A reserva e a confirmação são ações realizadas em tempo real, sem a necessidade de atualização da página.
 <br>
 Essa funcionalidade é devida ao `socket.io` e `socket.io-client`.
 
